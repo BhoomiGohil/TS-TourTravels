@@ -28,13 +28,13 @@ This project is a dynamic web application built with TypeScript for exploring tr
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/BhoomiGohil/Travel-Agency.git
+git clone https://github.com/BhoomiGohil/TS-Travel-Agency.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd Travel-Agency
+cd TS-Travel-Agency
 ```
 
 3. Install the TypeScript compiler (if not already installed):
