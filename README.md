@@ -1,31 +1,64 @@
-# Tour and Travels
+# TypeScript Tour Travels
 
-You will need a copy of Node.js as an environment to run the package. Then you use a dependency manager like npm, yarn or pnpm to download TypeScript into your project.
+This project is a dynamic web application built with TypeScript for exploring travel destinations and planning trips. It provides an interactive interface for users to browse and learn about various travel options, leveraging TypeScript's features for better code quality and maintainability.
 
-npm install typescript --save-dev
+## Features
 
-Now, you have to create tsconfig.json file using following command:
+- Interactive user interface to explore travel destinations
+- Information about various tours and travel packages
+- Strong typing and interfaces for better code structure
+- Responsive design for accessibility on different devices
+- Easy navigation between different sections of the application
 
-npx tsc --init
+## Technologies Used
 
-You can then run the TypeScript compiler using one of the following commands:
+- TypeScript
+- HTML
+- CSS
 
-npx tsc
+## Getting Started
 
-Note: Link your compile file to HTML file/files and also don't forgot to run your project using live server extension if you are using Visual Studio.
+### Prerequisites
 
-Step:
+- Node.js and npm installed on your machine
+- Basic understanding of JavaScript
 
-1. Navigate to Extensions.
-2. Search for "Live Server" and install it.
-3. Click on Go Live option to run project.
+### Installation
 
-Note: You have to run npx tsc command for compiling the file after update.
+1. Clone the repository:
 
-Happy coding.
+```bash
+git clone https://github.com/BhoomiGohil/TypeScript-TourTravels.git
+```
 
-Project Visuals
+2. Navigate to the project directory:
 
-<img src="./Website Images/Home.png">
+```bash
+cd TypeScript-TourTravels
+```
 
-<img src="./Website Images/Login.png">
+3. Install the TypeScript compiler (if not already installed):
+
+```bash
+npm install -g typescript
+```
+
+### Running the Code
+
+1. Compile the TypeScript files:
+
+```bash
+tsc
+```
+
+2. Open the generated index.html file in your web browser to view the application or run the compiled JavaScript files as needed.
+
+## Usage
+
+1. Launch the application in your web browser.
+2. Browse through the available travel destinations and packages.
+3. Click on different sections to view detailed information about each tour.
+
+## Acknowledgements
+
+Inspired by various travel resources and TypeScript tutorials.
