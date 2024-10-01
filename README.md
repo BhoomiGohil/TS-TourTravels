@@ -10,11 +10,17 @@ This project is a dynamic web application built with TypeScript for exploring tr
 - Responsive design for accessibility on different devices
 - Easy navigation between different sections of the application
 
-## Technologies Used
+## Project Visuals
 
-- TypeScript
-- HTML
-- CSS
+Below are some visuals of the project:
+
+### Home Page
+
+![Home Page](./Website%20Images/Home.png)
+
+### Login Page
+
+![Login Page](./Website%20Images/Login.png)
 
 ## Getting Started
 
@@ -58,6 +64,20 @@ tsc
 1. Launch the application in your web browser.
 2. Browse through the available travel destinations and packages.
 3. Click on different sections to view detailed information about each tour.
+
+## Technologies Used
+
+- TypeScript
+- HTML
+- CSS
+
+## Learning Outcomes
+
+Completing this project has helped me:
+
+- Understand the implementation of responsive design principles.
+- Gain hands-on experience with user authentication flows.
+- Improve my skills in HTML, CSS, and Typescript.
 
 ## Acknowledgements
 
